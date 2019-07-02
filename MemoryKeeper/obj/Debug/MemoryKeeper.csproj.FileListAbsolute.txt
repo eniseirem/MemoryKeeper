@@ -1,0 +1,48 @@
+c:\users\emresandikci\documents\visual studio 2015\Projects\MemoryKeeper\MemoryKeeper\bin\Debug\MemoryKeeper.exe.config
+c:\users\emresandikci\documents\visual studio 2015\Projects\MemoryKeeper\MemoryKeeper\bin\Debug\MemoryKeeper.exe
+c:\users\emresandikci\documents\visual studio 2015\Projects\MemoryKeeper\MemoryKeeper\bin\Debug\MemoryKeeper.pdb
+c:\users\emresandikci\documents\visual studio 2015\Projects\MemoryKeeper\MemoryKeeper\bin\Debug\EntityFramework.dll
+c:\users\emresandikci\documents\visual studio 2015\Projects\MemoryKeeper\MemoryKeeper\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\emresandikci\documents\visual studio 2015\Projects\MemoryKeeper\MemoryKeeper\bin\Debug\EntityFramework.xml
+c:\users\emresandikci\documents\visual studio 2015\Projects\MemoryKeeper\MemoryKeeper\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\emresandikci\documents\visual studio 2015\Projects\MemoryKeeper\MemoryKeeper\obj\Debug\MemoryKeeper.csprojResolveAssemblyReference.cache
+c:\users\emresandikci\documents\visual studio 2015\Projects\MemoryKeeper\MemoryKeeper\obj\Debug\MemoryKeeper.frmForgotPassword.resources
+c:\users\emresandikci\documents\visual studio 2015\Projects\MemoryKeeper\MemoryKeeper\obj\Debug\MemoryKeeper.frmLoginPage.resources
+c:\users\emresandikci\documents\visual studio 2015\Projects\MemoryKeeper\MemoryKeeper\obj\Debug\MemoryKeeper.Properties.Resources.resources
+c:\users\emresandikci\documents\visual studio 2015\Projects\MemoryKeeper\MemoryKeeper\obj\Debug\MemoryKeeper.csproj.GenerateResource.Cache
+c:\users\emresandikci\documents\visual studio 2015\Projects\MemoryKeeper\MemoryKeeper\obj\Debug\MemoryKeeper.exe
+c:\users\emresandikci\documents\visual studio 2015\Projects\MemoryKeeper\MemoryKeeper\obj\Debug\MemoryKeeper.pdb
+c:\users\emresandikci\documents\visual studio 2015\Projects\MemoryKeeper\MemoryKeeper\obj\Debug\MemoryKeeper.frmMainPage.resources
+c:\users\emresandikci\documents\visual studio 2015\Projects\MemoryKeeper\MemoryKeeper\obj\Debug\MemoryKeeper.frmCreateNewMemory.resources
+C:\Users\Sony\Desktop\MemoryKeeper\MemoryKeeper\bin\Debug\MemoryKeeper.exe.config
+C:\Users\Sony\Desktop\MemoryKeeper\MemoryKeeper\obj\Debug\MemoryKeeper.exe
+C:\Users\Sony\Desktop\MemoryKeeper\MemoryKeeper\obj\Debug\MemoryKeeper.pdb
+C:\Users\Sony\Desktop\MemoryKeeper\MemoryKeeper\bin\Debug\MemoryKeeper.exe
+C:\Users\Sony\Desktop\MemoryKeeper\MemoryKeeper\bin\Debug\MemoryKeeper.pdb
+C:\Users\Sony\Desktop\MemoryKeeper\MemoryKeeper\bin\Debug\EntityFramework.dll
+C:\Users\Sony\Desktop\MemoryKeeper\MemoryKeeper\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sony\Desktop\MemoryKeeper\MemoryKeeper\bin\Debug\EntityFramework.xml
+C:\Users\Sony\Desktop\MemoryKeeper\MemoryKeeper\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sony\Desktop\MemoryKeeper\MemoryKeeper\obj\Debug\MemoryKeeper.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Desktop\MemoryKeeper\MemoryKeeper\obj\Debug\MemoryKeeper.frmCreateNewMemory.resources
+C:\Users\Sony\Desktop\MemoryKeeper\MemoryKeeper\obj\Debug\MemoryKeeper.frmForgotPassword.resources
+C:\Users\Sony\Desktop\MemoryKeeper\MemoryKeeper\obj\Debug\MemoryKeeper.frmLoginPage.resources
+C:\Users\Sony\Desktop\MemoryKeeper\MemoryKeeper\obj\Debug\MemoryKeeper.frmMainPage.resources
+C:\Users\Sony\Desktop\MemoryKeeper\MemoryKeeper\obj\Debug\MemoryKeeper.Properties.Resources.resources
+C:\Users\Sony\Desktop\MemoryKeeper\MemoryKeeper\obj\Debug\MemoryKeeper.csproj.GenerateResource.Cache
+C:\Users\Sony\Desktop\HW\MemoryKeeper\MemoryKeeper\bin\Debug\MemoryKeeper.exe.config
+C:\Users\Sony\Desktop\HW\MemoryKeeper\MemoryKeeper\obj\Debug\MemoryKeeper.exe
+C:\Users\Sony\Desktop\HW\MemoryKeeper\MemoryKeeper\obj\Debug\MemoryKeeper.pdb
+C:\Users\Sony\Desktop\HW\MemoryKeeper\MemoryKeeper\bin\Debug\MemoryKeeper.exe
+C:\Users\Sony\Desktop\HW\MemoryKeeper\MemoryKeeper\bin\Debug\MemoryKeeper.pdb
+C:\Users\Sony\Desktop\HW\MemoryKeeper\MemoryKeeper\bin\Debug\EntityFramework.dll
+C:\Users\Sony\Desktop\HW\MemoryKeeper\MemoryKeeper\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sony\Desktop\HW\MemoryKeeper\MemoryKeeper\bin\Debug\EntityFramework.xml
+C:\Users\Sony\Desktop\HW\MemoryKeeper\MemoryKeeper\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sony\Desktop\HW\MemoryKeeper\MemoryKeeper\obj\Debug\MemoryKeeper.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Desktop\HW\MemoryKeeper\MemoryKeeper\obj\Debug\MemoryKeeper.frmCreateNewMemory.resources
+C:\Users\Sony\Desktop\HW\MemoryKeeper\MemoryKeeper\obj\Debug\MemoryKeeper.frmForgotPassword.resources
+C:\Users\Sony\Desktop\HW\MemoryKeeper\MemoryKeeper\obj\Debug\MemoryKeeper.frmLoginPage.resources
+C:\Users\Sony\Desktop\HW\MemoryKeeper\MemoryKeeper\obj\Debug\MemoryKeeper.frmMainPage.resources
+C:\Users\Sony\Desktop\HW\MemoryKeeper\MemoryKeeper\obj\Debug\MemoryKeeper.Properties.Resources.resources
+C:\Users\Sony\Desktop\HW\MemoryKeeper\MemoryKeeper\obj\Debug\MemoryKeeper.csproj.GenerateResource.Cache
